@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContatcController;
+use App\Http\Controllers\ProfileController;
 
 /*
 |--------------------------------------------------------------------------
@@ -19,3 +20,5 @@ Route::get('/', function () {
 })->name('home');
 
 Route::get('/contact', [App\Http\Controllers\ContatcController::class, 'contact'])->name('contact');
+
+Route::get('/profile/{profile?}', [App\Http\Controllers\ProfileController::class, 'profile'])->name('profile');
