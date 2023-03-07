@@ -1,5 +1,8 @@
 @extends('home')
 @section('pageHome')
+<script>
+    alert('SELAMAT DATANG DI WEBSITE KAMI');
+  </script>
 <!-- Content Header (Page header) -->
 
   <!-- Main content -->
