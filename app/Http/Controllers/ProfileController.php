@@ -6,11 +6,11 @@ use Illuminate\Http\Request;
 
 class ProfileController extends Controller
 {
-    public function profile($profile = 'Fahmi || Rizqi'){
-        if ($profile == 'Fahmi'){
+    public function profile($profile = ''){
+        if ($profile == ''){
             return view('profileFahmi');
-        }elseif ($profile = 'Rizqi'){
-            return view('profileRizqi');
+        // }elseif ($profile = 'Rizqi'){
+        //     return view('profileRizqi');
         }else{
             return view('home');
         }

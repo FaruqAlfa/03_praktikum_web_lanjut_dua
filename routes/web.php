@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContatcController;
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\PengalamanController;
 
 /*
 |--------------------------------------------------------------------------
@@ -22,3 +23,5 @@ Route::get('/', function () {
 Route::get('/contact', [App\Http\Controllers\ContatcController::class, 'contact'])->name('contact');
 
 Route::get('/profile/{profile?}', [App\Http\Controllers\ProfileController::class, 'profile'])->name('profile');
+
+Route::get('/pengalaman', [App\Http\Controllers\PengalamanController::class, 'pengalaman'])->name('pengalaman');
