@@ -33,7 +33,7 @@
 
                   <div class="post clearfix">
                     <div class="user-block">
-                      <img class="img-circle img-bordered-sm" src="../../dist/img/user7-128x128.jpg" alt="User Image">
+                      <img class="img-circle img-bordered-sm" src="/img/Rizqi.jpg" alt="User Image">
                       <span class="username">
                         <a href="#">Rizqi Rohmatul Huda</a>
                       </span>
