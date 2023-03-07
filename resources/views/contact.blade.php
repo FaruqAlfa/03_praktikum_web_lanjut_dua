@@ -76,7 +76,7 @@
                       </ul>
                     </div>
                     <div class="col-5 text-center">
-                      <img src="../../dist/img/user2-160x160.jpg" alt="user-avatar" class="img-circle img-fluid">
+                      <img src="/img/Rizqi.jpg" alt="user-avatar" class="img-circle img-fluid">
                     </div>
                   </div>
                 </div>
