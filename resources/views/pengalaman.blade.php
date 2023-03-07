@@ -37,16 +37,16 @@
                       <span class="username">
                         <a href="#">Rizqi Rohmatul Huda</a>
                       </span>
-                      <span class="description">Sent you a message - 3 days ago</span>
+                      <span class="description"></span>
                     </div>
                     <!-- /.user-block -->
                     <p>
-                      Lorem ipsum represents a long-held tradition for designers,
-                      typographers and the like. Some people hate it and argue for
-                      its demise, but others ignore.
+                    Saya dapat menemukan minat dan bakat baru yang tidak saya sadari sebelumnya
+                     serta dapat memperluas minat Saya melalui mata kuliah, kegiatan ekstrakurikuler,
+                      dan pekerjaan magang.
                     </p>
                     <p>
-                      <a href="#" class="link-black text-sm"><i class="fas fa-link mr-1"></i> Demo File 2</a>
+                      <a href="#" class="link-black text-sm"><i class="fas fa-link mr-1"></i></a>
                     </p>
                   </div>
 
