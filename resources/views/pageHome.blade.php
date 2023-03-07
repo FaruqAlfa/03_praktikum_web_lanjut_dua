@@ -20,8 +20,8 @@
         </div>
       </div>
       <div class="card-body">
-       <H1>Selamat Datang di Halaman Website Kami</H1>
-       
+       <center><H1>Selamat Datang di Halaman Website Kami</H1></center> 
+
       </div>
       <!-- /.card-body -->
       <div class="card-footer">
