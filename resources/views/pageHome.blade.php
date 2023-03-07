@@ -20,9 +20,7 @@
         </div>
       </div>
       <div class="card-body">
-        You can Change Pace Styles, Checkout the <a href="https://adminlte.io/docs/3.1/" target="_blank" rel="noopener noreferrer">AdminLTE Official Docs</a> in Online.
-        <br>
-        Start creating your amazing application!
+       <H1>Selamat Datang di Halaman Website Kami</H1>
       </div>
       <!-- /.card-body -->
       <div class="card-footer">
