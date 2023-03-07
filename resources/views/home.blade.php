@@ -7,6 +7,9 @@
   @include('layouts.css')
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
+  <script>
+    alert('SELAMAT DATANG DI WEBSITE KAMI');
+  </script>
 <div class="wrapper">
 @include('layouts.nav')
 @include('layouts.sidebar')
