@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\HomeController;
 use App\Http\Controllers\ContatcController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\PengalamanController;
@@ -20,8 +21,10 @@ Route::get('/', function () {
     return view('home');
 })->name('home');
 
+Route::get('/pageHome', [HomeController::class,'pageHome'])->name('pageHome');
+
 Route::get('/contact', [App\Http\Controllers\ContatcController::class, 'contact'])->name('contact');
 
-Route::get('/profile/{profile?}', [App\Http\Controllers\ProfileController::class, 'profile'])->name('profile');
+Route::get('/profile/{profile?}', [ProfileController::class, 'profile'])->name('profile');
 
 Route::get('/pengalaman', [App\Http\Controllers\PengalamanController::class, 'pengalaman'])->name('pengalaman');

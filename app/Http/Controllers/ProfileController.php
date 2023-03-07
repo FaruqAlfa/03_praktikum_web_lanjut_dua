@@ -7,10 +7,10 @@ use Illuminate\Http\Request;
 class ProfileController extends Controller
 {
     public function profile($profile = ''){
-        if ($profile == ''){
+        if ($profile == 'fahmi'){
             return view('profileFahmi');
-        // }elseif ($profile = 'Rizqi'){
-        //     return view('profileRizqi');
+        }elseif ($profile = 'rizqi'){
+            return view('profileRizqi');
         }else{
             return view('home');
         }

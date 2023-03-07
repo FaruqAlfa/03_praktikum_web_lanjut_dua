@@ -11,13 +11,13 @@
             <div class="card-body box-profile">
               <div class="text-center">
                 <img class="profile-user-img img-fluid img-circle"
-                     src="../../dist/img/user4-128x128.jpg"
+                     src="/img/Fahmi.jpg"
                      alt="User profile picture">
               </div>
 
-              <h3 class="profile-username text-center">Nina Mcintire</h3>
+              <h3 class="profile-username text-center">Mukhamad Faruq Al Fahmi</h3>
 
-              <p class="text-muted text-center">Software Engineer</p>
+              <p class="text-muted text-center">Mahasiswa JTI</p>
 
               <ul class="list-group list-group-unbordered mb-3">
                 <li class="list-group-item">
@@ -47,25 +47,25 @@
               <strong><i class="fas fa-book mr-1"></i> Education</strong>
 
               <p class="text-muted">
-                B.S. in Computer Science from the University of Tennessee at Knoxville
+                POLITEKNIK NEGERI MALANG
               </p>
 
               <hr>
 
               <strong><i class="fas fa-map-marker-alt mr-1"></i> Location</strong>
 
-              <p class="text-muted">Malibu, California</p>
+              <p class="text-muted">Papar, Kab. Kediri</p>
 
               <hr>
 
               <strong><i class="fas fa-pencil-alt mr-1"></i> Skills</strong>
 
               <p class="text-muted">
-                <span class="tag tag-danger">UI Design</span>
+                <span class="tag tag-danger">HTML Language</span>
                 <span class="tag tag-success">Coding</span>
                 <span class="tag tag-info">Javascript</span>
                 <span class="tag tag-warning">PHP</span>
-                <span class="tag tag-primary">Node.js</span>
+                <span class="tag tag-primary">Laravel</span>
               </p>
 
               <hr>
