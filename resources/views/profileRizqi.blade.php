@@ -72,7 +72,7 @@
 
              <strong><i class="far fa-file-alt mr-1"></i> Notes</strong>
 
-             <p class="text-muted">Langit cerah dengan awan putih kapas yang tebal</p>
+             <p class="text-muted">Selalu ada cahaya bagi orang yang mau melihat. – Ali bin Abi Thalib</p>
            </div>
            <!-- /.card-body -->
          </div>
@@ -93,29 +93,32 @@
                  <!-- Post -->
                  <div class="post">
                    <div class="user-block">
-                     <img class="img-circle img-bordered-sm" src="../../dist/img/user6-128x128.jpg" alt="User Image">
+                     <img class="img-circle img-bordered-sm" src="{{asset('/')}}img/Rizqi.jpg" alt="User Image">
                      <span class="username">
-                       <a href="#">Adam Jones</a>
+                       <a href="#">Rizqi R</a>
                        <a href="#" class="float-right btn-tool"><i class="fas fa-times"></i></a>
                      </span>
-                     <span class="description">Posted 5 photos - 5 days ago</span>
+                     <span class="description">Posted 5 photos - 1 days ago</span>
                    </div>
                    <!-- /.user-block -->
                    <div class="row mb-3">
-                     <div class="col-sm-6">
+                     <!-- <div class="col-sm-6">
                        <img class="img-fluid" src="../../dist/img/photo1.png" alt="Photo">
+                     </div> -->
+                     <div class="col-sm-6">
+                       <img class="img-fluid" src="{{asset('/')}}img/kucing.jpg" alt="Photo">
                      </div>
                      <!-- /.col -->
                      <div class="col-sm-6">
                        <div class="row">
                          <div class="col-sm-6">
-                           <img class="img-fluid mb-3" src="../../dist/img/photo2.png" alt="Photo">
-                           <img class="img-fluid" src="../../dist/img/photo3.jpg" alt="Photo">
+                           <img class="img-fluid mb-3" src="{{asset('/')}}img/kucing1.jpg" alt="Photo">
+                           <img class="img-fluid" src="{{asset('/')}}img/kucing.jpg" alt="Photo">
                          </div>
                          <!-- /.col -->
                          <div class="col-sm-6">
-                           <img class="img-fluid mb-3" src="../../dist/img/photo4.jpg" alt="Photo">
-                           <img class="img-fluid" src="../../dist/img/photo1.png" alt="Photo">
+                           <img class="img-fluid mb-3" src="{{asset('/')}}img/cat.jpg" alt="Photo">
+                           <img class="img-fluid" src="{{asset('/')}}img/cat1.jpg" alt="Photo">
                          </div>
                          <!-- /.col -->
                        </div>

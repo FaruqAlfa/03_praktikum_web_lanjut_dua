@@ -16,18 +16,17 @@
                       <span class="username">
                         <a href="#">Mukhamad Faruq Al Fahmi</a>
                       </span>
-                      <span class="description">Shared publicly - 7:45 PM today</span>
+                      <span class="description"></span>
                     </div>
                     <!-- /.user-block -->
                     <p>
-                      Lorem ipsum represents a long-held tradition for designers,
-                      typographers and the like. Some people hate it and argue for
-                      its demise, but others ignore.
+                    Kuliah juga merupakan kesempatan untuk bergaul dan berinteraksi dengan teman-teman baru. 
+                    Mahasiswa mungkin bergabung dengan klub atau organisasi kampus untuk memperluas lingkaran sosial mereka.
 
                     </p>
 
                     <p>
-                      <a href="#" class="link-black text-sm"><i class="fas fa-link mr-1"></i> Demo File 1 v2</a>
+                      <a href="#" class="link-black text-sm"><i class="fas fa-link mr-1"></i></a>
                     </p>
                   </div>
 
@@ -55,11 +54,12 @@
           </div>
           <div class="col-12 col-md-12 col-lg-4 order-1 order-md-2">
             <h3 class="text-primary"><i class="fas fa-paint-brush"></i>POLITEKNIK NEGERI MALANG</h3>
-            <p class="text-muted">Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terr.</p>
+            <p class="text-muted">Polinema adalah institusi pendidikan tinggi vokasi yang terletak di kota Malang.
+               Malang adalah kota terbesar kedua di Jawa Timur,Indonesia. </p>
             <br>
             <div class="text-muted">
-              <p class="text-sm">Client Company
-                <b class="d-block">POLINEMA</b>
+              <p class="text-sm">universitas
+                <b class="d-block">POLITEKNIK NEGERI MALANG</b>
               </p>
               <p class="text-sm">Project Leader
                 <b class="d-block">JTI POLINEMA</b>
@@ -69,19 +69,19 @@
             <h5 class="mt-5 text-muted">Project files</h5>
             <ul class="list-unstyled">
               <li>
-                <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-file-word"></i> Functional-requirements.docx</a>
+                <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-file-word"></i> Alamat :	:	Jl. Soekarno Hatta No. 9 Malang</a>
               </li>
               <li>
-                <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-file-pdf"></i> UAT.pdf</a>
+                <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-file-pdf"></i> Telepon 	:	(0341) 404424-404425</a>
               </li>
               <li>
-                <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-envelope"></i> Email-from-flatbal.mln</a>
+                <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-envelope"></i> Email : cs@polinema.ac.id</a>
               </li>
               <li>
-                <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-image "></i> Logo.png</a>
+                <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-image "></i> <img src="img/polinema.png" alt="" width="20px; height:auto;"></a>
               </li>
               <li>
-                <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-file-word"></i> Contract-10_12_2014.docx</a>
+                <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-file-word"></i> Kode Pos :	:	65141</a>
               </li>
             </ul>
             <div class="text-center mt-5 mb-3">
